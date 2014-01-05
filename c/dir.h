@@ -1,6 +1,6 @@
 /*
  * @file:    dir.h
- * @author   yongl-hf@gmail.com
+ * @author   yongl.hf@gmail.com
  */
 
 #ifndef _DIR_H_

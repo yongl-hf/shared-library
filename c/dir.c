@@ -1,6 +1,6 @@
 /*
  * @file:    dir.c
- * @author   yongl-hf@gmail.com
+ * @author   yongl.hf@gmail.com
  */
 
 #include <stdio.h>
